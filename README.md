@@ -107,11 +107,25 @@ Al formar parte de nuestra comunidad de testers, tu cuenta de Google puede ser r
 
 👉 Consulta el proceso completo en nuestra [página oficial de Beta Testers](https://appinitdev.com/testers).
 
-### 📱 TesterApp
+### 📱 TesterApp — Pruebas Cerradas
 
-**TesterApp: Pruebas Cerradas** es nuestra aplicación para ayudar a desarrolladores independientes a encontrar testers y gestionar sus pruebas beta cerradas de Google Play.
+**TesterApp: Pruebas Cerradas** es una plataforma **peer-to-peer para desarrolladores independientes de Android**, creada para facilitar la búsqueda y organización de testers para pruebas beta cerradas en Google Play.
 
-[🚀 Descargar TesterApp en Google Play](https://play.google.com/store/apps/details?id=com.appinitdev.tester&hl=es_MX)
+La plataforma conecta a desarrolladores y testers dentro de una comunidad de intercambio, donde los participantes pueden **probar aplicaciones de otros desarrolladores y, a cambio, recibir testers para sus propios proyectos**.
+
+**Características principales:**
+
+* 👥 **Comunidad de intercambio:** Conecta con desarrolladores y testers reales de Android para participar en pruebas beta.
+* ⏳ **Seguimiento de pruebas:** Monitoriza el progreso de las pruebas y la participación de los testers durante el periodo requerido.
+* 🧪 **Feedback de usuarios:** Facilita la recopilación de comentarios para detectar errores, problemas de interfaz y oportunidades de mejora antes del lanzamiento.
+* 🎮 **Sistema de puntos y rangos:** Obtén puntos participando en pruebas de la comunidad y mejora tu nivel dentro de la plataforma.
+* 🔄 **Colaboración P2P:** Los desarrolladores pueden ayudarse mutuamente a completar sus procesos de pruebas mediante un sistema organizado de participación.
+* 📊 **Gestión centralizada:** Mantén en un solo lugar el seguimiento de tus aplicaciones, testers y progreso de las pruebas.
+
+TesterApp está especialmente pensada para **desarrolladores independientes y equipos pequeños** que necesitan una forma organizada de encontrar participantes para sus pruebas beta, en lugar de depender de grupos dispersos en redes sociales.
+
+🌐 **Página oficial:** [appinitdev.com/testers](https://appinitdev.com/testers)
+📱 **Google Play:** [Descargar TesterApp: Pruebas Cerradas](https://play.google.com/store/apps/details?id=com.appinitdev.tester&hl=es_MX)
 
 
 ---
