@@ -2,7 +2,7 @@
   <img src="https://appinitdev.com/images/logotipo.png" alt="AppInitDev Logo" width="120" height="120">
   <h1>App Initiative Developer (AppInitDev)</h1>
   <p><b>Estudio de desarrollo independiente especializado en aplicaciones Android nativas, soluciones web y ecosistemas digitales.</b></p>
-  <p>📍 Ocotlán de Morelos, Oaxaca, México</p>
+  <p>📍 Oaxaca, México</p>
 
   <!-- Badges Principales -->
   <a href="https://play.google.com/store/apps/dev?id=7906933430170308500">
