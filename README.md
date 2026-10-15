@@ -139,11 +139,11 @@ TesterApp está especialmente pensada para **desarrolladores independientes y eq
 | 🌐 **Sitio Web Oficial** | [appinitdev.com](https://appinitdev.com/) |
 | 🛍️ **Google Play Store** | [Perfil de Desarrollador](https://play.google.com/store/apps/dev?id=6537616482020430815) |
 | 📧 **Soporte & Negocios** | [support@appinitdev.com](mailto:support@appinitdev.com) |
-| 📘 **Facebook** | [@AppInitDevAndroid](https://www.facebook.com/AppInitDevApps) |
+| 📘 **Facebook** | [@AppInitDevApps](https://www.facebook.com/AppInitDevApps) |
 | 💼 **LinkedIn** | [Adrian Antonio Sarmiento Porras](https://www.linkedin.com/in/adrian-antonio-sarmiento-porras-265053311) |
-| 🎵 **TikTok** | [@appinitdev](https://www.tiktok.com/@appinitdev_apps) |
-| 🐦 **X (Twitter)** | [@appinitdev](https://x.com/AppInitDevApps) |
-| 📷 **Instagram** | [@appinitdev](https://instagram.com/appinitdevapps) |
+| 🎵 **TikTok** | [@appinitdev_apps](https://www.tiktok.com/@appinitdev_apps) |
+| 🐦 **X (Twitter)** | [@AppInitDevApps](https://x.com/AppInitDevApps) |
+| 📷 **Instagram** | [@appinitdevapps](https://instagram.com/appinitdevapps) |
  
 
 <br>
