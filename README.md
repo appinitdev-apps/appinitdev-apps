@@ -144,6 +144,14 @@ TesterApp está especialmente pensada para **desarrolladores independientes y eq
 | 🎵 **TikTok** | [@appinitdev_apps](https://www.tiktok.com/@appinitdev_apps) |
 | 🐦 **X (Twitter)** | [@AppInitDevApps](https://x.com/AppInitDevApps) |
 | 📷 **Instagram** | [@appinitdevapps](https://instagram.com/appinitdevapps) |
+| 🐙 **GitHub** | [appinitdev-apps](https://github.com/appinitdev-apps/) |
+| ✍️ **Medium** | [@appinitdev](https://medium.com/@appinitdev) |
+| 🤖 **Reddit** | [u/AppInitDev](https://www.reddit.com/user/AppInitDev/) |
+| 🧮 **Stack Overflow** | [AppInitDev](https://stackoverflow.com/users/33210453/appinitdev) |
+| 📺 **YouTube** | [@appinitdev_apps](https://www.youtube.com/@appinitdev_apps) |
+| 👩‍💻 **Dev.to** | [appinitdev](https://dev.to/appinitdev) |
+| 👤 **About.me** | [appinitdev](https://about.me/appinitdev) |
+| 📝 **Hashnode** | [appinitdev](https://appinitdev.hashnode.dev/appinitdev) |
  
 
 <br>
