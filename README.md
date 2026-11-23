@@ -18,6 +18,24 @@
 
 ---
 
+## 📱 Nuestro portafolio de aplicaciones Android
+
+Descubre los proyectos desarrollados por **AppInitDev**, con documentación individual, capturas de pantalla, funcionalidades y ejemplos de código Kotlin.
+
+Cada aplicación cuenta con su propio README y enlaces a Google Play y su sitio oficial.
+
+<p align="center">
+  <a href="https://github.com/appinitdev-apps/appinitdev-android-portfolio">
+    <img src="https://img.shields.io/badge/EXPLORAR_PORTAFOLIO-40_APLICACIONES-00875F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar portafolio Android de AppInitDev">
+  </a>
+</p>
+
+**[📂 Ver todos los proyectos Android en GitHub](https://github.com/appinitdev-apps/appinitdev-android-portfolio)**
+
+---
+
+---
+
 ## 🦊 Sobre AppInitDev & Fundador
 
 ¡Hola! Soy **Adrian Antonio Sarmiento Porras**, desarrollador e impulsor de **AppInitDev**. Nos enfocamos en crear herramientas móviles y web nativas que resuelvan necesidades reales, optimicen procesos para usuarios y empresas, y prioricen la privacidad del usuario.
