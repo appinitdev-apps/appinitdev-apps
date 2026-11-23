@@ -5,7 +5,7 @@
   <p>📍 Oaxaca, México</p>
 
   <!-- Badges Principales -->
-  <a href="https://play.google.com/store/apps/dev?id=7906933430170308500">
+  <a href="https://play.google.com/store/apps/dev?id=6537616482020430815">
     <img src="https://img.shields.io/badge/Google_Play-Tienda_Oficial-01875F?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
   </a>
   <a href="https://appinitdev.com/">
